@@ -1,0 +1,6 @@
+# Los datos no se suben: se generan con "python3 crear_matriz.py".
+# matriz.dat pesa 10 GB y GitHub no acepta archivos de mas de 100 MB.
+matriz.dat
+matriz_mapa.dat
+
+__pycache__/
